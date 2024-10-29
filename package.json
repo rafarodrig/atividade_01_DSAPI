@@ -1,0 +1,26 @@
+{
+  "name": "atividade-01-dsapi",
+  "version": "1.0.0",
+  "description": "Atividade 01 de DSA",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafarodrig/atividade_01_DSAPI.git"
+  },
+  "author": "Rafael S. Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafarodrig/atividade_01_DSAPI/issues"
+  },
+  "homepage": "https://github.com/rafarodrig/atividade_01_DSAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "knex": "^3.1.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
